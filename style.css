@@ -105,12 +105,12 @@ html, body {
 }
 
 .hero-images-1 {
-    background-image: url('/images/karly-jones-g_Nrgi9pt70-unsplash.jpg');
+    background-image: url('./images/karly-jones-g_Nrgi9pt70-unsplash.jpg');
     
 }
 
 .hero-images-2 {
-    background-image: url('/images/perfume1.jpg');
+    background-image: url('./images/perfume1.jpg');
 }
 
 .hero-images {
